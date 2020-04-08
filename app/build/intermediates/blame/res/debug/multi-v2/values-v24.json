@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\BTCNPM\\SEO3-Group10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Win 10 Pro x64\\.gradle\\caches\\transforms-2\\files-2.1\\9874f516e16ebb5ca3be40d83e15e495\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Win 10 Pro x64\\.gradle\\caches\\transforms-2\\files-2.1\\523af772a111ed577e124bdb8cd6bc99\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
