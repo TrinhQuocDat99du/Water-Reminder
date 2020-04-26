@@ -16,9 +16,6 @@ import a2dv606.androidproject.Settings.PreferenceKey;
 
 import static android.content.Context.ALARM_SERVICE;
 
-/**
- * Created by Abeer on 5/2/2017.
- */
 
 public class AlarmHelper {
 
