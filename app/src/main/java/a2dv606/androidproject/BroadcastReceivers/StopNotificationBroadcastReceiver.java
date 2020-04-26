@@ -6,9 +6,6 @@ import android.content.Intent;
 
 import a2dv606.androidproject.MainWindow.AlarmHelper;
 
-/**
- * Created by Abeer on 8/9/2017.
- */
 
 public class StopNotificationBroadcastReceiver extends BroadcastReceiver {
     @Override
