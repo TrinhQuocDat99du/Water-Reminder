@@ -8,9 +8,6 @@ import a2dv606.androidproject.Database.DrinkDataSource;
 import a2dv606.androidproject.MainWindow.AlarmHelper;
 import a2dv606.androidproject.Settings.PrefsHelper;
 
-/**
- * Created by Abeer on 5/2/2017.
- */
 public class BootBroadcastReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context pContext, Intent intent) {
