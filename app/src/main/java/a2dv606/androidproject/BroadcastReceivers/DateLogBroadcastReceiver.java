@@ -14,9 +14,6 @@ import a2dv606.androidproject.MainWindow.DateHandler;
 import a2dv606.androidproject.Settings.PrefsHelper;
 import a2dv606.androidproject.Settings.PreferenceKey;
 
-/**
- * Created by Abeer on 3/29/2017.
- */
 
 public class DateLogBroadcastReceiver extends BroadcastReceiver {
 
