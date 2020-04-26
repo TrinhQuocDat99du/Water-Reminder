@@ -19,9 +19,7 @@ import a2dv606.androidproject.MainWindow.DateHandler;
 import a2dv606.androidproject.Model.DateLog;
 import a2dv606.androidproject.Model.TimeLog;
 
-/**
- * Created by f on 2017-03-28.
- */
+
 public class DrinkDataSource {
     private SQLiteDatabase database;
     private DrinkDbHelper dbHelper;
