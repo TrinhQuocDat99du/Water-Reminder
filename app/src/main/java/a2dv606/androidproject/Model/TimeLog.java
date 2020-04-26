@@ -3,9 +3,6 @@ package a2dv606.androidproject.Model;
 
 
 
-/**
- * Created by Abeer on 3/23/2017.
- */
 
 public class TimeLog {
     long ID;
