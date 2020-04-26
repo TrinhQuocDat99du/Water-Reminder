@@ -7,9 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by Abeer on 3/22/2017.
- */
 
 public class DateLog  {
 
